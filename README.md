@@ -1,2 +1,14 @@
-# Pengantar_Sains_Data_Pertemuan5
-Tugas mata kuliah Pengantar Sains Data pertemuan ke-5
+# Pertemuan 5 - Pengantar Sains Data
+
+Repository ini berisi tugas praktik bahasa pemrograman R pada **Pertemuan 5** untuk mata kuliah Pengantar Sains Data.
+
+## 👤 Author
+
+**Satria Ramadhani (20264920010)**
+/ Statistika - Data Science
+
+Matana University
+
+---
+
+## Terima kasih
